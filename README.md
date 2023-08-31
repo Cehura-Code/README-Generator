@@ -22,7 +22,7 @@ The application will generate a README.md markdown file once all the listed prom
 
 2. Install VS Code if you do not have it installed already, then open VS Code
      <h3>*command</h3>
-    <center>-git clone [https://github.com/Cehura-Code/README-Generator/tree/main]</center>
+    <center>-git clone [https://github.com/Cehura-Code/README-Generator]</center>
 
 3.Install Node
 
