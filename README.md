@@ -13,5 +13,6 @@ The application will generate a README.md markdown file once all the listed prom
 [README Recording.mov.zip](https://github.com/Cehura-Code/README-Generator/files/12489554/README.Recording.mov.zip)
 
 <h1>Screenshot</h1>
+<img width="596" alt="Generator Screenshot1" src="https://github.com/Cehura-Code/README-Generator/assets/134533516/7e9f1e68-6be8-43c9-a29d-1789c8a89301">
 
 
