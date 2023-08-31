@@ -14,5 +14,7 @@ The application will generate a README.md markdown file once all the listed prom
 
 <h1>Screenshot</h1>
 <img width="596" alt="Generator Screenshot1" src="https://github.com/Cehura-Code/README-Generator/assets/134533516/7e9f1e68-6be8-43c9-a29d-1789c8a89301">
+<img width="1095" alt="Generator Screenshot2" src="https://github.com/Cehura-Code/README-Generator/assets/134533516/65a86187-3c71-47ff-9385-48dae84fdeed">
+
 
 
